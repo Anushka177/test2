@@ -4,7 +4,11 @@ int main()
 {
     int n;
     cin<<n;
-    if(n==1) cout<<"eat samosa"
+    if(n==1) 
+    {
+    cout<<"eat samosa"
+    cout<<"po";
+    }
     else cout<<"do your homework";
     return 0;
     
