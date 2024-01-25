@@ -2,6 +2,10 @@
 using namespace std;
 int main()
 {
-    cout<<"I am hungry";
+    int n;
+    cin<<n;
+    if(n==1) cout<<"eat samosa"
+    else cout<<"do your homework";
     return 0;
+    
 }
