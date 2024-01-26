@@ -9,6 +9,10 @@ int main()
     cout<<"eat samosa"
     cout<<"po";
     }
+    else if(n==2)
+    {
+        cout<<"thirsty";
+    }
     else cout<<"do your homework";
     return 0;
     
