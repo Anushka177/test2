@@ -10,6 +10,10 @@ int main()
     cout<<"po";
     cout<<"fries";
     }
+    else if(n==2)
+    {
+        cout<<"thirsty";
+    }
     else cout<<"do your homework";
     return 0;
     
