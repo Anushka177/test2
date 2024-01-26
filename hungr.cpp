@@ -8,6 +8,7 @@ int main()
     {
     cout<<"eat samosa"
     cout<<"po";
+    cout<<"fries";
     }
     else cout<<"do your homework";
     return 0;
