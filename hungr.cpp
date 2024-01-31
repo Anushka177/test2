@@ -4,12 +4,11 @@ int main()
 {
     int n;
     cin<<n;
-    if(n==1 && n==6) 
+    if(n==1 && n==3) 
     {
     cout<<"eat samosa"
     cout<<"po";
     cout<<"fries";
-    cout<<"extra";
     }
     else if(n==2)
     {
