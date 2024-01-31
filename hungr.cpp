@@ -4,7 +4,7 @@ int main()
 {
     int n;
     cin<<n;
-    if(n==1) 
+    if(n==1 && n==3) 
     {
     cout<<"eat samosa"
     cout<<"po";
